@@ -11,7 +11,5 @@
 📌 Projetos em destaque
 🚧 [Nome do projeto] — breve descrição do que faz e por quê (link)
 🚧 [Nome do projeto] — breve descrição do que faz e por quê (link)
-📈 Estatísticas
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="GitHub stats" /> </p>
-📫 Contato
+
 <p align="left"> <a href="https://www.linkedin.com/in/glauco-martins-06695b315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
